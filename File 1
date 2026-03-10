@@ -42,5 +42,10 @@ int main(){
 
     nilaiBMI = hitungBMI(berat, tinggi);
 
+     
+    cout << endl << "--- Hasil ---" << endl;
+    cout << "BMI Anda : " << nilaiBMI << endl;
+
+
     
 }
