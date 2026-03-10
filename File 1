@@ -47,5 +47,7 @@ int main(){
     cout << "BMI Anda : " << nilaiBMI << endl;
 
 
-    
+    cout << "Status   : " << tentukanKondisi(nilaiBMI << endl;
+
+    return 0;
 }
