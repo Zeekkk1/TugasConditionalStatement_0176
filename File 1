@@ -6,6 +6,13 @@ using namespace std;
 
 
 
-void masukanData(float &berat, float &tinggi) {
-    
+void masukanData(float &berat, float &tinggi){
+    cout  << "Masukan Berat Badan (kg): ";
+    cin >> berat;
+    cout << "Masukan tinggi badan (meter): ";
+    cin >> tinggi;
+}
+
+float hitungBMI(float berat, float tinggi){
+
 }
